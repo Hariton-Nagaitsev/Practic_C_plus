@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITMO\\C\u002B\u002B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Lab06_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D53A98-3260-4D9B-9E9D-F101F5B8289F}|Lab06_01.vcxproj|E:\\ITMO\\C\u002B\u002B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Lab06_01\\Lab06_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4D53A98-3260-4D9B-9E9D-F101F5B8289F}|Lab06_01.vcxproj|solutionrelative:Lab06_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab06_01.cpp",
+              "DocumentMoniker": "E:\\ITMO\\C\u002B\u002B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Lab06_01\\Lab06_01.cpp",
+              "RelativeDocumentMoniker": "Lab06_01.cpp",
+              "ToolTip": "E:\\ITMO\\C\u002B\u002B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Lab06_01\\Lab06_01.cpp",
+              "RelativeToolTip": "Lab06_01.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-22T17:03:13.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

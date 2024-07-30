@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITMO\\C\u002B\u002B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Lab08_edit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5E2FED-9EF8-49E3-ACEC-25281E12584C}|Lab08_edit.vcxproj|E:\\ITMO\\C\u002B\u002B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Lab08_edit\\Lab08_edit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC5E2FED-9EF8-49E3-ACEC-25281E12584C}|Lab08_edit.vcxproj|solutionrelative:Lab08_edit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5E2FED-9EF8-49E3-ACEC-25281E12584C}|Lab08_edit.vcxproj|E:\\ITMO\\C\u002B\u002B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Lab08_edit\\Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC5E2FED-9EF8-49E3-ACEC-25281E12584C}|Lab08_edit.vcxproj|solutionrelative:Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5E2FED-9EF8-49E3-ACEC-25281E12584C}|Lab08_edit.vcxproj|E:\\ITMO\\C\u002B\u002B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Lab08_edit\\Time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC5E2FED-9EF8-49E3-ACEC-25281E12584C}|Lab08_edit.vcxproj|solutionrelative:Time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Time.cpp",
+              "DocumentMoniker": "E:\\ITMO\\C\u002B\u002B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Lab08_edit\\Time.cpp",
+              "RelativeDocumentMoniker": "Time.cpp",
+              "ToolTip": "E:\\ITMO\\C\u002B\u002B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Lab08_edit\\Time.cpp",
+              "RelativeToolTip": "Time.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-22T20:19:31.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Time.h",
+              "DocumentMoniker": "E:\\ITMO\\C\u002B\u002B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Lab08_edit\\Time.h",
+              "RelativeDocumentMoniker": "Time.h",
+              "ToolTip": "E:\\ITMO\\C\u002B\u002B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Lab08_edit\\Time.h",
+              "RelativeToolTip": "Time.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-22T20:19:29.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab08_edit.cpp",
+              "DocumentMoniker": "E:\\ITMO\\C\u002B\u002B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Lab08_edit\\Lab08_edit.cpp",
+              "RelativeDocumentMoniker": "Lab08_edit.cpp",
+              "ToolTip": "E:\\ITMO\\C\u002B\u002B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Lab08_edit\\Lab08_edit.cpp",
+              "RelativeToolTip": "Lab08_edit.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-22T20:18:30.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
