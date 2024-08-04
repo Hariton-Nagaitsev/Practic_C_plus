@@ -4,17 +4,16 @@
 
 class Triangle {
 private:
-    Dot p1;
-    Dot p2;
-    Dot p3;
+    Dot* p1;
+    Dot* p2;
+    Dot* p3;
 public:
-    Triangle(double x1, double y1, double x2, double y2, double x3, double y3);
-
-    Triangle(Dot p1, Dot p2, Dot p3);
+    Triangle(Dot* p1, Dot* p2, Dot* p3);
 
     void printSides();
     double perimeter();
     double area();
 };
+
 
 

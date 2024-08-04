@@ -9,5 +9,3 @@ public:
     Dot(double x, double y);
     double distanceTo(Dot point);
 };
-
-
