@@ -1,0 +1,3 @@
+Student: Фамилия: as Имя: na Отчество: assa,1121212
+Teacher: Фамилия: ads Имя: qawed Отчество: ads,12313123
+Colleague: Фамилия: ads Имя: ads Отчество: das,123123213
